@@ -1,0 +1,12 @@
+# 🏠 House Prediction System README
+
+This project documentation was generated with the aesthetic and structure of readme.so. 
+
+Please refer to [README.md](./README.md) for the full detailed documentation, installation guides, and project overview.
+
+### 🚀 Quick Start
+1. `pip install streamlit numpy pandas scikit-learn`
+2. `streamlit run app.py`
+
+---
+*Created for the House Prediction Project*
