@@ -101,4 +101,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-*Developed with ❤️ by [Dhruv6227](https://github.com/Dhruv6227)*
+*Developed by [Dhruv6227](https://github.com/Dhruv6227)*
